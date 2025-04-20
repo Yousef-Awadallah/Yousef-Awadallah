@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently studying at the University of Waterloo
-- - 📫 How to reach me: y3awadal@uwaterloo.ca
+- 📫 How to reach me: y3awadal@uwaterloo.ca
 
 <!--
 **Yousef-Awadallah/Yousef-Awadallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
